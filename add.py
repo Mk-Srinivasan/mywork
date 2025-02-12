@@ -6,5 +6,3 @@ def add():
 	print("The sum is: ", sum)
 
 add()
-add()
-add()
