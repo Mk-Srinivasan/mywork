@@ -10,6 +10,12 @@ def sub():
 	num2 = input('Enter second number: ')
 	result = int(num1) - int(num2)
 	print("The result is: ", result)
+def mul():
+	#take two integers numbers and multiply
+	num1 = input('Enter first number: ')
+	num2 = input('Enter second number: ')
+	result = int(num1) * int(num2)
+	print("The result is: ", result)
 
 
 add()
