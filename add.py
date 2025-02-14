@@ -7,3 +7,5 @@ def add():
 
 add()
 sub()
+mul()
+div()
